@@ -12,7 +12,7 @@ R = bg+'\033[31m'
 
 print(O+'''
 \tWEBSOCKET SCANNER
-\tBy : DHOOM
+\tBy : JALAL ZAIN
 \t  version Faster (using threading)
 #'''+GR)
 
